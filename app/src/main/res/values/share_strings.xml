@@ -1,0 +1,20 @@
+<resources>
+
+
+
+    mString.put("share_QQ", res.getIdentifier("ssdk_qq", "string", this.ctx.getPackageName()));
+    mString.put("share_QZone", res.getIdentifier("ssdk_qzone", "string", this.ctx.getPackageName()));
+    mString.put("share_weChat", res.getIdentifier("ssdk_wechat", "string", this.ctx.getPackageName()));
+    mString.put("share_weChatmoments", res.getIdentifier("ssdk_wechatmoments", "string", this.ctx.getPackageName()));//微信朋友圈
+    mString.put("share_weChatfavorite", res.getIdentifier("ssdk_wechatfavorite", "string", this.ctx.getPackageName()));//微信收藏
+    mString.put("share_sinaweibo", res.getIdentifier("ssdk_sinaweibo", "string", this.ctx.getPackageName()));
+
+
+    <string name="ssdk_qq">QQ好友</string>
+    <string name="ssdk_qzone">QQ空间</string>
+    <string name="ssdk_wechat">微信好友</string>
+    <string name="ssdk_wechatmoments">微信朋友圈</string>
+    <string name="ssdk_wechatfavorite">微信收藏</string>
+    <string name="ssdk_sinaweibo">微博</string>
+    <string name="ssdk_more">更多</string>
+</resources>
